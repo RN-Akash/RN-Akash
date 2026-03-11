@@ -11,8 +11,6 @@ I enjoy creating **high-performance apps, clean UI/UX, and reusable components**
 ---
 
 ## 📬 Reach me out!
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RN-Akash)
 [![Mail](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rawat@zohomail.in)
 
