@@ -10,6 +10,14 @@ I enjoy creating **high-performance apps, clean UI/UX, and reusable components**
 
 ---
 
+<p align="center">
+  <a href="https://github.com/RN-Akash">
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RN-Akash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
+
+---
+
 ## 📬 Reach me out!
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RN-Akash)
 [![Mail](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rawat@zohomail.in)
@@ -36,9 +44,3 @@ I enjoy creating **high-performance apps, clean UI/UX, and reusable components**
 ![Swift](https://img.shields.io/badge/Swift-grey?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
-
-<p align="center">
-  <a href="https://github.com/RN-Akash">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RN-Akash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  </a>
-</p>
