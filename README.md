@@ -1,4 +1,4 @@
-## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px"> Hello, folks; I'm Akash!
+## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px"> Hi, I'm Akash!
 
 📱 React Native Developer with 4+ years of experience building scalable **mobile and web applications**.  
 I enjoy creating **high-performance apps, clean UI/UX, and reusable components** using modern technologies.
@@ -13,8 +13,8 @@ I enjoy creating **high-performance apps, clean UI/UX, and reusable components**
 ## 📬 Reach me out!
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-grey?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Mail](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RN-Akash)
+[![Mail](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rawat@zohomail.in)
 
 ---
 
@@ -39,11 +39,8 @@ I enjoy creating **high-performance apps, clean UI/UX, and reusable components**
 
 ---
 
-# 📊 GitHub Stats
-
 <p align="center">
-  <a href="https://github.com/yourusername">
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://github.com/RN-Akash">
+    <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=RN-Akash&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
 </p>
