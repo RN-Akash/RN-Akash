@@ -1,1 +1,1 @@
-<iframe src="https://github.com/Akash562/Akash562/blob/main/README.md"></iframe>
+👉 (https://github.com/Akash562/Akash562/blob/main/README.md)
