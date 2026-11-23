@@ -1,12 +1,24 @@
 ## <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px"> Hi, I'm Akash!
 
-📱 React Native Developer with 4+ years of experience building scalable **mobile and web applications**.  
-I enjoy creating **high-performance apps, clean UI/UX, and reusable components** using modern technologies.
+# 👨‍💻 Software Engineer | React Native | React.js | Automation
 
-- 🔭 Currently working on **React Native Mobile Apps**
-- 🌐 Also building **Web Applications with React**
-- 📱 Experienced in **Android Native modules, APIs, and app architecture**
-- ⚡ Passionate about **performance optimization and clean UI design**
+🚀 Software Engineer with **4+ years of experience** building scalable, high-performance **mobile and web applications**, along with intelligent business automation solutions.
+
+💡 Passionate about transforming ideas into seamless digital experiences through clean architecture, intuitive UI/UX, reusable components, and performance-driven development.
+
+### 🔥 What I Do
+
+- 📱 **Mobile Development:** Building cross-platform applications with React Native.
+- 🌐 **Web Development:** Creating responsive, dynamic web applications using React.js.
+- ⚙️ **Business Automation:** Designing workflows and integrations using GoHighLevel (GHL), HubSpot, Make.com, and Zapier.
+- 🤖 **Native Integrations:** Working with Android Native Modules, APIs, and mobile app architecture.
+- ⚡ **Performance & UI/UX:** Optimizing application performance and crafting clean, user-friendly interfaces.
+
+### 🎯 What Drives Me
+
+I enjoy exploring modern technologies, solving complex problems, building reusable solutions, and continuously improving the way applications are developed.
+
+**Building smarter applications. Automating workflows. Creating better digital experiences.** 🚀
 
 ---
 
@@ -19,28 +31,40 @@ I enjoy creating **high-performance apps, clean UI/UX, and reusable components**
 ---
 
 ## 📬 Reach me out!
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RN-Akash)
 [![Mail](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.rawat@zohomail.in)
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack & Technologies
 
 ### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React%20Native-grey?style=for-the-badge&logo=react&logoColor=white)
-![Android](https://img.shields.io/badge/Android-grey?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-grey?style=for-the-badge&logo=apple&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+</p>
 
 ### 🌐 Web Development
-![React](https://img.shields.io/badge/React-grey?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-grey?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-grey?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-grey?style=for-the-badge&logo=swift&logoColor=white)
+### 💻 Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+</p>
 
+### ⚙️ Automation & Integrations
+<p>
+  <img src="https://img.shields.io/badge/GoHighLevel-188BF6?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
 ---
