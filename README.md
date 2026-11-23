@@ -54,8 +54,6 @@ I enjoy exploring modern technologies, solving complex problems, building reusab
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
-
-### ⚙️ Automation & Integrations
 <p>
   <img src="https://img.shields.io/badge/GoHighLevel-188BF6?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/HubSpot-FF7A59?style=for-the-badge&logo=hubspot&logoColor=white" />
